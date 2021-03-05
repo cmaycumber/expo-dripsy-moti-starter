@@ -2,7 +2,6 @@ import { Text, DripsyProvider, View } from "dripsy";
 import { StatusBar } from "expo-status-bar";
 import { View as MotiView } from "moti";
 import React from "react";
-import { StyleSheet } from "react-native";
 
 export default function App() {
   return (
